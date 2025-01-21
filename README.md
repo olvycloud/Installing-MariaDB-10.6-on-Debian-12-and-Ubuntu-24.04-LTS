@@ -1,4 +1,4 @@
-# Installing MariaDB 10.6 on Debian 12 and Ubuntu 24.04 LTS
+# MariaDB 10.6 Installation Guide for Debian 12 and Ubuntu 24.04
 
 This guide provides step-by-step instructions to install MariaDB 10.6 on Debian 12 and Ubuntu 24.04 LTS systems using the Olvy repository.
 
